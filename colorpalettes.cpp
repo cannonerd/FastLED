@@ -139,6 +139,29 @@ extern const TProgmemRGBPalette16 SuskiColors_p FL_PROGMEM = {
     0x000033,//midnightblue2 
 };
 
+
+/// HSV Fire bracelet
+extern const TProgmemRGBPalette16 FireColors_p FL_PROGMEM = { 
+
+    0xFF6103, //cadmiumorange
+    0x8A360F, // burntsienna
+    0xCD2626, //firebrick 3
+    0x800000, // maroon
+    0xA52A2A, // brown
+    0xFF8C00, // darkorange
+    0xDAA520, // goldenrod
+    0xFFD700, // gold 1
+    0xFFFF00, // yellow 1
+    0xFFF68F, //  khaki 1
+    0xFFC125, // goldenrod 1
+    0xEEAD0E, // darkgoldenrod 2
+    0xFF9912, //  cadmiumyellow
+    0xFF7F24, // chocolate 1
+    0xFF4500, // orangered 1 
+    0xF4A460, // sandybrown
+};
+
+
 /// HSV Rainbow colors with alternatating stripes of black
 #define RainbowStripesColors_p RainbowStripeColors_p
 extern const TProgmemRGBPalette16 RainbowStripeColors_p FL_PROGMEM =

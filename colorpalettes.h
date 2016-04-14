@@ -34,6 +34,11 @@ extern const TProgmemRGBPalette16 RainbowColors_p FL_PROGMEM;
  extern const TProgmemRGBPalette16 SuskiColors_p FL_PROGMEM;
 
 
+/// HSV Fire bracelet
+ extern const TProgmemRGBPalette16 FireColors_p FL_PROGMEM;
+
+
+
 #define RainbowStripesColors_p RainbowStripeColors_p
 /// HSV Rainbow colors with alternatating stripes of black
 extern const TProgmemRGBPalette16 RainbowStripeColors_p FL_PROGMEM;
