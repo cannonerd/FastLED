@@ -118,6 +118,27 @@ extern const TProgmemRGBPalette16 RainbowColors_p FL_PROGMEM =
     0x5500AB, 0x7F0081, 0xAB0055, 0xD5002B
 };
 
+/// HSV Suski pendant
+extern const TProgmemRGBPalette16 SuskiColors_p FL_PROGMEM = { 
+
+    0x000033,//midnightblue2 
+    0x000080,//navy 
+    0x0147FA, // ty nant 
+    0x00008B,//darkblue 
+    0x081970,//midnightblue 
+    0x000033,//midnightblue2 
+    0x000033,//midnightblue2 
+    0x000033,//midnightblue2 
+    0x000033,//midnightblue2 
+    0x00009C,// newmidnightblue 
+    0x0000CD,//mediumblue 
+    0x0000EE,//blue2 
+    0x0000FF,// blue 
+    0x000033,//midnightblue2 
+    0x000033,//midnightblue2 
+    0x000033,//midnightblue2 
+};
+
 /// HSV Rainbow colors with alternatating stripes of black
 #define RainbowStripesColors_p RainbowStripeColors_p
 extern const TProgmemRGBPalette16 RainbowStripeColors_p FL_PROGMEM =

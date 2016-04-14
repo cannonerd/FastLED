@@ -30,6 +30,10 @@ extern const TProgmemRGBPalette16 ForestColors_p FL_PROGMEM;
 /// HSV Rainbow
 extern const TProgmemRGBPalette16 RainbowColors_p FL_PROGMEM;
 
+/// HSV Suski pendant
+ extern const TProgmemRGBPalette16 SuskiColors_p FL_PROGMEM;
+
+
 #define RainbowStripesColors_p RainbowStripeColors_p
 /// HSV Rainbow colors with alternatating stripes of black
 extern const TProgmemRGBPalette16 RainbowStripeColors_p FL_PROGMEM;
