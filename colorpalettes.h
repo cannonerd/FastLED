@@ -37,7 +37,21 @@ extern const TProgmemRGBPalette16 RainbowColors_p FL_PROGMEM;
 /// HSV Fire bracelet
  extern const TProgmemRGBPalette16 FireColors_p FL_PROGMEM;
 
+/// Hoodlet Suski day 0
+ extern const TProgmemRGBPalette16 Day0_p FL_PROGMEM;
 
+/// Hoodlet Suski day1 
+ extern const TProgmemRGBPalette16 Day1_p FL_PROGMEM;
+
+
+/// Hoodlet Suski day2 
+ extern const TProgmemRGBPalette16 Day2_p FL_PROGMEM;
+
+/// Hoodlet Suski day2_2 
+ extern const TProgmemRGBPalette16 Day2_2_p FL_PROGMEM;
+
+/// Hoodlet Suski day2_3 
+ extern const TProgmemRGBPalette16 Day2_3_p FL_PROGMEM;
 
 #define RainbowStripesColors_p RainbowStripeColors_p
 /// HSV Rainbow colors with alternatating stripes of black

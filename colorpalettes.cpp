@@ -161,6 +161,113 @@ extern const TProgmemRGBPalette16 FireColors_p FL_PROGMEM = {
     0xF44400, // sandybrown
 };
 
+/// Hoodlet Day0 FireColours 
+extern const TProgmemRGBPalette16 Day0_p FL_PROGMEM = { 
+
+    0xFF6100, //cadmiumorange
+    0x8A3600, // burntsienna
+    0xCD2600, //firebrick 3
+    0x800000, // maroon
+    0xA52200, // brown
+    0xFF8500, // darkorange
+    0xDA3500, // goldenrod
+    0xFFC100, // goldenrod 1
+    0xFF4700, // gold 1
+    0xFF5400, //  khaki 1
+    0xFFC100, // goldenrod 1
+    0xEE2300, // darkgoldenrod 2
+    0xFF4400, //  cadmiumyellow
+    0xFF7700, // chocolate 1
+    0xFF4500, // orangered 1 
+    0xF44400, // sandybrown
+};
+
+/// Hoodlet Day1 blue to pink 
+extern const TProgmemRGBPalette16 Day1_p FL_PROGMEM = { 
+	0xE5004B,
+        0xD50C4E,
+	0xC61952,
+	0xB72655,
+	0xA73259,
+	0x983F5C,
+	0x894C60,
+	0x7A5963,
+	0x6A6567,
+	0x5B726A,
+	0x4C7F6E,
+	0x3D8C71,
+	0x2D9875,
+	0x1EA578,
+	0x0FB27C,
+	0x00BF80,
+
+
+};
+
+/// Hoodlet Day2 blue to black 
+extern const TProgmemRGBPalette16 Day2_p FL_PROGMEM = { 
+
+	0x27C4D7,
+	0x27B5CF,
+	0x28A7C7,
+	0x2899BF,
+	0x288AB7,
+	0x287CAF,
+	0x296DA8,
+	0x295FA0,
+	0x295198,
+	0x294290,
+	    0x00009C,// newmidnightblue 
+	    0x0000CD,//mediumblue 
+	    0x0000EE,//blue2 
+	    0x0000FF,// blue 
+	    0x000033,//midnightblue2 
+	    0x000033,//midnightblue2 
+};
+
+/// Hoodlet Day2_2 green to yellow 
+extern const TProgmemRGBPalette16 Day2_2_p FL_PROGMEM = { 
+
+	0xE3E500,
+	0xD3E202,
+	0xC4DF05,
+	0xB5DD08,
+	0xA6DA0A,
+	0x97D80D,
+	0x88D510,
+	0x79D313,
+	0x69D015,
+	0x5ACE18,
+	0x4BCB1B,
+	0x3CC91E,
+	0x2DC620,
+	0x1EC423,
+	0x0FC126,
+	0x00BF29,
+
+};
+
+/// Hoodlet Day2_3 green to blue 
+extern const TProgmemRGBPalette16 Day2_3_p FL_PROGMEM = { 
+	0x3ED214,
+	0x37B526,
+	0x319838,
+	0x2A7B4B,
+	0x245F5D,
+	0x1D4270,
+	0x172582,
+	0x110995,
+	0x110995,
+	0x172582,
+	0x1D4270,
+	0x245F5D,
+	0x2A7B4B,
+	0x319838,
+	0x37B526,
+	0x3ED214,
+
+
+};
 
 /// HSV Rainbow colors with alternatating stripes of black
 #define RainbowStripesColors_p RainbowStripeColors_p
